@@ -1,0 +1,14 @@
+defaultPortal: module_doc
+portals:
+  - name: module_doc
+    portalId: 44159408
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CJGTzca7MRIRAA0AQAAA4G0DQAJYAgEAAPgYsKOHFSDwv5kdKO7pDDIUfeYYd_22S_5wwRSpeAqKEGWEwpw6OAAABEEAAAB4AAAAAAAAAAAAgAAAAAAABAAAwAcAjvAxPGBQBgBEAGBA_BgGABAgAwAAAAAAPP4DQhSRiNS6r3d2_TX5Tfc0gNRD1jXxkUoDbmExUgBaAA
+        expiresAt: '2023-11-10T10:42:16.615Z'
+    personalAccessKey: >-
+      CiQ0NWNkMjY1ZS01MjllLTQ4MjQtYjk5YS03OTc4MzUwYjllNzIQsKOHFRjwv5kdKhkABeaRgsyU8EG3z9xXv3XchTlce7toLaKRSgNuYTE
+    sandboxAccountType: null
+    parentAccountId: null

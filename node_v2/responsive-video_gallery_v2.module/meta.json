@@ -1,0 +1,8 @@
+{
+  "global" : false,
+  "icon" : "fontawesome-5.14.0:Alternate%20Compress%20Arrows:SOLID",
+  "host_template_types" : [ "PAGE" ],
+  "module_id" : 144937163108,
+  "label" : "Responsive video gallery with responsive design.",
+  "is_available_for_new_content" : true
+}

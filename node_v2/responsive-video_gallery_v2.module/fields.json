@@ -1,0 +1,131 @@
+[ {
+  "id" : "b8ec56c7-26ba-fd26-a85b-6b96b326bbe1",
+  "name" : "title_text",
+  "display_width" : null,
+  "label" : "Title Text",
+  "inline_help_text" : "This is a title.",
+  "required" : false,
+  "locked" : false,
+  "validation_regex" : "",
+  "allow_new_line" : false,
+  "show_emoji_picker" : false,
+  "type" : "text",
+  "default" : "Responsive Video Gallery"
+}, {
+  "id" : "f68b0564-5728-1108-64e4-6542c539eb2c",
+  "name" : "subtitle_text",
+  "display_width" : null,
+  "label" : "Subtitle Text",
+  "required" : false,
+  "locked" : false,
+  "type" : "richtext",
+  "default" : "Capturing the Moment: Highlight the art of photography or videography and how it enhances the viewer's experience."
+}, {
+  "id" : "ecc3798b-576f-613d-332e-38dea008b58b",
+  "name" : "video_1",
+  "display_width" : null,
+  "label" : "1st Video",
+  "inline_help_text" : "This is 1st video.",
+  "required" : false,
+  "locked" : false,
+  "supported_source_types" : [ "html" ],
+  "supported_oembed_types" : [ "photo", "video", "link", "rich" ],
+  "resizable" : true,
+  "show_preview" : true,
+  "supported_media_bridge_providers" : [ ],
+  "type" : "embed",
+  "default" : {
+    "source_type" : "html",
+    "embed_html" : "<iframe width=\"1271\" height=\"715\" src=\"https://www.youtube.com/embed/jNWsFL7A9e0\" title=\"How to Use HubSpot for Marketing\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+  }
+}, {
+  "id" : "72335235-c992-02ea-0611-334b2eaf686c",
+  "name" : "video_2",
+  "display_width" : null,
+  "label" : "2nd Video",
+  "inline_help_text" : "This is 2nd video.",
+  "required" : false,
+  "locked" : false,
+  "supported_source_types" : [ "html" ],
+  "supported_oembed_types" : [ "photo", "video", "link", "rich" ],
+  "resizable" : true,
+  "show_preview" : true,
+  "supported_media_bridge_providers" : [ ],
+  "type" : "embed",
+  "default" : {
+    "source_type" : "html",
+    "embed_html" : "<iframe width=\"1271\" height=\"715\" src=\"https://www.youtube.com/embed/02J3QcjGQhQ\" title=\"New and Now Replay: HubSpot&#39;s October 2023 Product Updates\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+  }
+}, {
+  "id" : "9b8847d4-a6c5-0c29-8236-66c5b878e241",
+  "name" : "video_3",
+  "display_width" : null,
+  "label" : "3rd Video",
+  "inline_help_text" : "This is 3rd video.",
+  "required" : false,
+  "locked" : false,
+  "supported_source_types" : [ "html" ],
+  "supported_oembed_types" : [ "photo", "video", "link", "rich" ],
+  "resizable" : true,
+  "show_preview" : true,
+  "supported_media_bridge_providers" : [ ],
+  "type" : "embed",
+  "default" : {
+    "source_type" : "html",
+    "embed_html" : "<iframe width=\"1271\" height=\"715\" src=\"https://www.youtube.com/embed/qT2JmpAUzzw\" title=\"A Day in the Life: Using HubSpot for Sales\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+  }
+}, {
+  "id" : "c31eafcc-6e38-b518-e913-79c0b5de7ff4",
+  "name" : "video_4",
+  "display_width" : null,
+  "label" : "4th Video",
+  "inline_help_text" : "This is 4th video.",
+  "required" : false,
+  "locked" : false,
+  "supported_source_types" : [ "html" ],
+  "supported_oembed_types" : [ "photo", "video", "link", "rich" ],
+  "resizable" : true,
+  "show_preview" : true,
+  "supported_media_bridge_providers" : [ ],
+  "type" : "embed",
+  "default" : {
+    "source_type" : "html",
+    "embed_html" : "<iframe width=\"1271\" height=\"715\" src=\"https://www.youtube.com/embed/qT2JmpAUzzw\" title=\"A Day in the Life: Using HubSpot for Sales\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+  }
+}, {
+  "id" : "ade6d7b4-1c41-5c13-eacd-f982c5b57036",
+  "name" : "video_5",
+  "display_width" : null,
+  "label" : "5th Video",
+  "inline_help_text" : "This is 5th video.",
+  "required" : false,
+  "locked" : false,
+  "supported_source_types" : [ "html" ],
+  "supported_oembed_types" : [ "photo", "video", "link", "rich" ],
+  "resizable" : true,
+  "show_preview" : true,
+  "supported_media_bridge_providers" : [ ],
+  "type" : "embed",
+  "default" : {
+    "source_type" : "html",
+    "embed_html" : "<iframe width=\"1271\" height=\"715\" src=\"https://www.youtube.com/embed/kNUnmu7F0rw\" title=\"How to Make a FREE Business Website in WordPress 2024 (Elementor and KitPapa Tutorial for Beginners)\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+  }
+}, {
+  "id" : "a1a46fd3-5252-5382-2d02-4bccea81b941",
+  "name" : "video_6",
+  "display_width" : null,
+  "label" : "6th Video",
+  "inline_help_text" : "This is 6th video.",
+  "required" : false,
+  "locked" : false,
+  "supported_source_types" : [ "html" ],
+  "supported_oembed_types" : [ "photo", "video", "link", "rich" ],
+  "resizable" : true,
+  "show_preview" : true,
+  "supported_media_bridge_providers" : [ ],
+  "type" : "embed",
+  "default" : {
+    "source_type" : "html",
+    "embed_html" : "<iframe width=\"1271\" height=\"715\" src=\"https://www.youtube.com/embed/vLSEY3ieswY\" title=\"What is HubSpot | The Ultimate Marketing &amp; Sales Tool\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+  }
+} ]
